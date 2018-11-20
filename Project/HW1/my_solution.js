@@ -23,6 +23,3 @@ var income = [];
 
 var budgetPerDay = money / 30;
 alert ("бюджет на 1 день " + budgetPerDay);
-
-
-
